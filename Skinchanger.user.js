@@ -135,6 +135,28 @@ const RESOURCE_OVERRIDE = [
 
 		to: `https://s.eu.tankionline.com/602/132677/206/41/30545000710451/meta.info`,
 		external: true
+	},
+		//Paladin XT
+	{
+
+		from: `https://s.eu.tankionline.com/573/47363/125/65/30545000710644/lightmap-astc.ktx`,
+
+		to: `https://s.eu.tankionline.com/573/47363/125/60/30545000711000/lightmap-astc.ktx`,
+		external: true
+	},
+	{
+
+		from: `https://s.eu.tankionline.com/573/47363/125/65/30545000710644/object.3ds`,
+
+		to: `https://s.eu.tankionline.com/573/47363/125/60/30545000711000/object.3ds`,
+		external: true
+	},	
+	{
+
+		from: `https://s.eu.tankionline.com/573/47363/125/65/30545000710644/meta.info`,
+
+		to: `https://s.eu.tankionline.com/573/47363/125/60/30545000711000/meta.info`,
+		external: true
 	}
 
 ];

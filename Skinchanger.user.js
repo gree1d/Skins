@@ -70,26 +70,26 @@ const RESOURCE_OVERRIDE = [
 		to: `https://s.eu.tankionline.com/0/16722/6/301/30545000710604/meta.info`,
 		external: true
 	},
-	//shaft LC
+	//shaft XT
 	{
 	    
 		from: `https://s.eu.tankionline.com/0/114/160/315/30545000710571/lightmap-astc.ktx`,
 
-		to: `https://s.eu.tankionline.com/600/170471/174/26/30545000710453/lightmap-astc.ktx`,
+		to: `https://s.eu.tankionline.com/546/73531/62/216/30545000710600/lightmap-astc.ktx`,
 		external: true
 	},
 	{
 
 		from: `https://s.eu.tankionline.com/0/114/160/315/30545000710571/object.3ds`,
 
-		to: `https://s.eu.tankionline.com/600/170471/174/26/30545000710453/object.3ds`,
+		to: `https://s.eu.tankionline.com/546/73531/62/216/30545000710600/object.3ds`,
 		external: true
 	},	
 	{
 
 		from: `https://s.eu.tankionline.com/0/114/160/315/30545000710571/meta.info`,
 
-		to: `https://s.eu.tankionline.com/600/170471/174/26/30545000710453/meta.info`,
+		to: `https://s.eu.tankionline.com/546/73531/62/216/30545000710600/meta.info`,
 		external: true
 	},
 	//Crysis XT

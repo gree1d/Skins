@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SkinChange
 // @namespace    http://tampermonkey.net/
-// @version      2.1
+// @version      2.1.1
 // @description  Easy skins changer
 // @author       Shiz0v@l-Team
 // @match        https://*.test-eu.tankionline.com/browser-public/index.html?*
